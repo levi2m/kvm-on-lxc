@@ -23,8 +23,8 @@ Before you start, make sure you have the following:
 Clone this repository to your Proxmox host:
 
 ```bash
-git clone https://github.com/yourusername/proxmox-lxc-kvm-setup.git
-cd proxmox-lxc-kvm-setup
+git clone https://github.com/levi2m/kvm-on-lxc.git
+cd kvm-on-lxc
 ```
 
 ### Step 2: Make the Script Executable
