@@ -44,21 +44,28 @@ Execute the script and follow the prompts:
 What the Script Does
 
 	1.	Download Container Template 📥
-	•	Downloads the Ubuntu 20.04 container template.
+	•	Downloads the Ubuntu 20.04 container template
+
 	2.	Create the Container 🏗️
 	•	Prompts for a container ID, hostname, and root password.
 	•	Creates the container with the specified parameters.
+	
 	3.	Enable Virtualization Nesting 🔧
 	•	Configures the container to allow nested virtualization.
-	4.	Start the Container 🚀
+	
+ 	4.	Start the Container 🚀
 	•	Starts the newly created container.
-	5.	Install KVM and Dependencies 🛠️
+	
+ 	5.	Install KVM and Dependencies 🛠️
 	•	Installs KVM-related packages and tools within the container.
-	6.	Configure KVM Device 🔌
+	
+ 	6.	Configure KVM Device 🔌
 	•	Adds necessary device configurations to support KVM.
-	7.	Restart the Container 🔄
+	
+ 	7.	Restart the Container 🔄
 	•	Restarts the container to apply changes.
-	8.	Verify KVM Installation ✅
+	
+ 	8.	Verify KVM Installation ✅
 	•	Checks if KVM is enabled and functioning properly inside the container.
 
  Example Output
