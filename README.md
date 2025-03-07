@@ -41,7 +41,7 @@ Execute the script and follow the prompts:
 ./setup_kvm_container_proxmox.sh
 ```
 
-What the Script Does
+## What the Script Does
 
 	1.	Download Container Template 📥
 	•	Downloads the Ubuntu 20.04 container template
@@ -68,7 +68,7 @@ What the Script Does
  	8.	Verify KVM Installation ✅
 	•	Checks if KVM is enabled and functioning properly inside the container.
 
- Example Output
+## Example Output
 
 The script will display clear and organized messages throughout the process to keep you informed of each step. Here’s a snippet of what you might see:
 
@@ -100,15 +100,15 @@ You can now start creating VMs in KVM.
 =======================================
 ```
 
-Troubleshooting
+## Troubleshooting
 
 If you encounter any issues, please refer to the Proxmox documentation or open an issue in this repository.
 
-Contributions
+## Contributions
 
 Feel free to submit pull requests or open issues to contribute to this project. We welcome improvements, bug fixes, and new features!
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
